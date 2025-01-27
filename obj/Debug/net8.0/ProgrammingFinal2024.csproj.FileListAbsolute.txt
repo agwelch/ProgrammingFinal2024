@@ -156,3 +156,4 @@ C:\ProgrammingFinal2024\bin\Debug\net8.0\ProgrammingFinal2024.runtimeconfig.json
 C:\ProgrammingFinal2024\bin\Debug\net8.0\ProgrammingFinal2024.pdb
 C:\ProgrammingFinal2024\obj\Debug\net8.0\ProgrammingFinal2024.genruntimeconfig.cache
 C:\ProgrammingFinal2024\obj\Debug\net8.0\ref\ProgrammingFinal2024.dll
+C:\ProgrammingFinal2024\obj\Debug\net8.0\ProgrammingFinal2024.sourcelink.json
